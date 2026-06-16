@@ -1,0 +1,62 @@
+[
+  {
+    "id": "policy_password_001",
+    "title": "Password Reset Policy",
+    "topic": "account",
+    "text": "Nhan vien co the doi mat khau tu trang Account Security. Mat khau moi phai co toi thieu 12 ky tu, gom chu hoa, chu thuong, so va ky tu dac biet. Link dat lai mat khau het han sau 30 phut va khong duoc chia se qua email cong khai."
+  },
+  {
+    "id": "policy_mfa_002",
+    "title": "Multi Factor Authentication",
+    "topic": "account",
+    "text": "MFA bat buoc voi tai khoan quan tri vien va nhan vien truy cap du lieu khach hang. Neu mat thiet bi xac thuc, nguoi dung phai lien he IT Helpdesk, xac minh bang ma nhan vien va giay to tuy than truoc khi cap lai."
+  },
+  {
+    "id": "policy_refund_003",
+    "title": "Refund Window",
+    "topic": "billing",
+    "text": "Khach hang co the yeu cau hoan tien trong vong 14 ngay ke tu ngay thanh toan neu chua su dung qua 20 phan tram han muc dich vu. Goi doanh nghiep can duoc Customer Success phe duyet truoc khi chuyen sang bo phan ke toan."
+  },
+  {
+    "id": "policy_invoice_004",
+    "title": "Invoice Correction",
+    "topic": "billing",
+    "text": "Hoa don sai thong tin ma so thue hoac dia chi can duoc bao trong 7 ngay. Bo phan ke toan chi phat hanh hoa don dieu chinh khi khach hang cung cap ma don hang, thong tin phap ly moi va email xac nhan cua nguoi dai dien."
+  },
+  {
+    "id": "policy_sla_005",
+    "title": "Support SLA",
+    "topic": "support",
+    "text": "Su co muc P1 anh huong toan bo he thong phai duoc phan hoi trong 15 phut va cap nhat moi 30 phut. P2 phan hoi trong 2 gio lam viec. P3 phan hoi trong 1 ngay lam viec. Ticket phai co muc uu tien va buoc tai hien."
+  },
+  {
+    "id": "policy_data_retention_006",
+    "title": "Data Retention",
+    "topic": "security",
+    "text": "Log truy cap duoc luu 180 ngay. Ban sao luu du lieu khach hang duoc ma hoa va luu 90 ngay. Yeu cau xoa du lieu phai duoc hoan tat trong 30 ngay sau khi xac minh chu the du lieu va kiem tra rang buoc phap ly."
+  },
+  {
+    "id": "policy_incident_007",
+    "title": "Security Incident Response",
+    "topic": "security",
+    "text": "Khi phat hien ro ri du lieu, nhan vien phai bao cao cho Security trong 1 gio. Doi Incident Response phan loai muc do, co lap bang chung, thong bao phap ly neu can va lap bao cao hau kiem trong 5 ngay lam viec."
+  },
+  {
+    "id": "policy_onboarding_008",
+    "title": "Employee Onboarding",
+    "topic": "hr",
+    "text": "Nhan vien moi phai hoan thanh bao mat thong tin, quy tac su dung AI va dao tao san pham trong 5 ngay dau. Tai khoan noi bo chi duoc kich hoat sau khi quan ly phe duyet vai tro va muc truy cap."
+  },
+  {
+    "id": "policy_expense_009",
+    "title": "Expense Reimbursement",
+    "topic": "finance",
+    "text": "Chi phi cong tac duoi 2 trieu dong can hoa don hop le va duoc gui trong 10 ngay. Khoan chi tren 2 trieu dong can phe duyet truoc bang van ban cua quan ly truc tiep."
+  },
+  {
+    "id": "policy_ai_usage_010",
+    "title": "Responsible AI Usage",
+    "topic": "ai",
+    "text": "Nhan vien khong duoc dua du lieu ca nhan, bi mat kinh doanh hoac ma nguon rieng tu vao cong cu AI cong khai. Ket qua AI phai duoc con nguoi kiem tra truoc khi gui cho khach hang hoac dung trong quyet dinh co tac dong lon."
+  }
+]
